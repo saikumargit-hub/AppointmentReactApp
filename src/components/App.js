@@ -11,6 +11,7 @@ function App() {
                 <div>Add Appointments</div>
                 <div>Search Appointments</div>
                 <div>List Appointments</div>
+                <div>List Appointments</div>
               </div>
             </div>
           </div>
